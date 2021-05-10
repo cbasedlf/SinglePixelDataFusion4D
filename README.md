@@ -1,4 +1,8 @@
 # Single-pixel based Data Fusion algorithm for spectral-temporal-spatial reconstruction
+
+![fusion](https://user-images.githubusercontent.com/19323057/117669638-68276880-b1a7-11eb-975c-fa23b8beda13.png)
+
+
 Codes for the data fusion procedure explained in: 
 
 "Giga-voxel multispectral fluorescence lifetimage imaging combining single-pixel detection and data fusion"
