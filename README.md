@@ -8,3 +8,15 @@ F. SOLDEVILA, A. LENZ, A. GHEZZI, A. FARINA, C. D’ANDREA, AND E. TAJAHUERCE
 published in (TBD)
 
 Codes by F.SOLDEVILA and A.LENZ
+
+### File explanation ###
+
+data_fusion.m contains the main algorithm of data fusion, with some calls to the routines in \routines. It solves the gradient descent problem explained in the manuscript for a simulated 4D dataset.
+
+
+datasets16-64-128-128.mat contains simulated measurements for the three detection systems in the manuscript (a single-pixel spectral camera, a single-pixel time-resolved camera, and a high-resolution pixelated detector) AND calibration measurements for the experimental devices (wavelength callibration).
+Data.CCD: pixelated detector measurement
+Data.L16: single-pixel spectral data
+Data.PMT: single-pixel time-resolved data
+Data.lmabda: wavelength vector for the 16 channels of the single-pixel spectral data
+Data.time: time vector for the single-pixel time-resolved data
