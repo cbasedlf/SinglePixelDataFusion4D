@@ -9,7 +9,7 @@ Codes for the data fusion procedure explained in:
 
 F. SOLDEVILA, A. LENZ, A. GHEZZI, A. FARINA, C. D’ANDREA, AND E. TAJAHUERCE
 
-published in (TBD)
+published in *******
 
 Codes by F.SOLDEVILA and A.LENZ
 
