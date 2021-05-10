@@ -9,7 +9,7 @@ published in (TBD)
 
 Codes by F.SOLDEVILA and A.LENZ
 
-### File explanation ###
+### Files explanation ###
 
 data_fusion.m contains the main algorithm of data fusion, with some calls to the routines in \routines. It solves the gradient descent problem explained in the manuscript for a simulated 4D dataset.
 
