@@ -5,7 +5,7 @@
 
 Codes for the data fusion procedure explained in: 
 
-"Giga-voxel multispectral fluorescence lifetimage imaging combining single-pixel detection and data fusion"
+"Giga-voxel multidimensional fluorescence imaging combining single-pixel detection and data fusion"
 
 F. SOLDEVILA, A. LENZ, A. GHEZZI, A. FARINA, C. D’ANDREA, AND E. TAJAHUERCE
 
@@ -19,8 +19,16 @@ data_fusion.m contains the main algorithm of data fusion, with some calls to the
 
 
 datasets16-64-128-128.mat contains simulated measurements for the three detection systems in the manuscript (a single-pixel spectral camera, a single-pixel time-resolved camera, and a high-resolution pixelated detector) AND calibration measurements for the experimental devices (wavelength callibration).
+
 Data.CCD: pixelated detector measurement
+
 Data.L16: single-pixel spectral data
+
 Data.PMT: single-pixel time-resolved data
+
 Data.lmabda: wavelength vector for the 16 channels of the single-pixel spectral data
+
 Data.time: time vector for the single-pixel time-resolved data
+
+
+Code is provided as is. If you find it useful, please cite the paper/repo
