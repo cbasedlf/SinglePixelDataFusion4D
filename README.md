@@ -32,4 +32,4 @@ Data.lmabda: wavelength vector for the 16 channels of the single-pixel spectral 
 Data.time: time vector for the single-pixel time-resolved data
 
 
-Code is provided as is. If you find it useful, please cite the paper/repo
+Code is provided as is. If you find it useful, please cite the paper
