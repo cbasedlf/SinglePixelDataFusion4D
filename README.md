@@ -10,7 +10,7 @@ Codes for the data fusion procedure explained in:
 
 F. SOLDEVILA, A. LENZ, A. GHEZZI, A. FARINA, C. D’ANDREA, AND E. TAJAHUERCE
 
-*** To be Published ***
+https://doi.org/10.1364/OL.434127
 
 Codes by F.SOLDEVILA and A.LENZ
 
